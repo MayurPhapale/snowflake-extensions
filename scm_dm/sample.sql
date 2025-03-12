@@ -1,4 +1,4 @@
-create or replace table sample (
+create or replace table sample1 (
   id number,
   name varchar(100)
 );
