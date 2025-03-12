@@ -3,6 +3,6 @@ use database demo;
 use schema public;
 
 create or replace table table3 (
-  id number
+  id number,
   name varchar(100)
   );
